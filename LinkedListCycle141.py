@@ -15,6 +15,5 @@ class Solution:
             
             if p1 == p2:
                 return True
-            
-            if p1 == None or p2 == None:
-                return False
+
+        return False
